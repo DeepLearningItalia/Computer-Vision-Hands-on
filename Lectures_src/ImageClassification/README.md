@@ -11,7 +11,7 @@ Il problema si può schematizzare come segue:
 
 **Soluzione:**
 
-[In questo notebook](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/Lectures_src/ImageClassification/ConvolutionalNN-TFKeras.ipynb) è presente la procedura di costruzione di un modello convoluzionale facendo uso di *Tensorflow 2.x*.
+[In questo notebook](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/blob/main/Lectures_src/ImageClassification/ConvolutionalNN-TFKeras.ipynb) è presente la procedura di costruzione di un modello convoluzionale facendo uso di *Tensorflow 2.x*.
 
 ## Esempio Tensorflow JS
 Il repository mostrato nel video può essere trovato [qui](https://github.com/oscar-defelice/handgesture.github.io).

@@ -19,8 +19,17 @@ pip install -r requirements.txt
 
 questo installera i pacchetti e le librerie necessarie al corso nelle versioni opportune.
 
+## Interagire con i notebook online
+
+Il servizio gratuito _Binder_, permette di accedere ad un ambiente già configurato ed eseguire i notebook. Basta cliccare sul badge qui sotto per avviare l'ambiente.
+
+<p align="center">
+<a href = https://mybinder.org/v2/gh/DeepLearningItalia/Computer-Vision-Hands-on/HEAD?urlpath=lab> <img src="https://mybinder.org/badge_logo.svg"> </a>
+</p>
+
+
 ### Autore
-Oscar de Felice 
+Oscar de Felice
 
 📫 [Contattami!](mailto:oscar.defelice@gmail.com)
 

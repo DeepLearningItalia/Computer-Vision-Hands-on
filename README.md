@@ -1,4 +1,5 @@
-# Architetture-CNN-per-la-Camputer-Vision
+# Computer Vision Hands-on
+## Architetture di reti neurali convoluzionali e applicazioni di Computer Vision
 
 Questo repository contiene i materiali del corso _Computer Vision Hands-on_.
 

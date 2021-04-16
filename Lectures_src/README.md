@@ -4,6 +4,8 @@ Indico qui schematicamente l'indice delle lezioni e inserisco i link ai rispetti
 ## [Introduzione (ImageClassification)](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/blob/main/Lectures_src/ImageClassification)
 Una breve introduzione sulle reti convoluzionali e un [codice](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/blob/main/Lectures_src/ImageClassification/ConvolutionalNN-TFKeras.ipynb) su come costruirle in TensorFlow 2.
 
+È stato inserito [un notebook opzionale](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/blob/main/Lectures_src/ImageClassification/CNNStepbyStep.ipynb) che implementa i layer convoluzionali facendo uso del solo numpy.
+
 ![image](https://user-images.githubusercontent.com/49638680/115029324-28ca6c80-9ec6-11eb-8883-074c5aad9ab3.png)
 
 

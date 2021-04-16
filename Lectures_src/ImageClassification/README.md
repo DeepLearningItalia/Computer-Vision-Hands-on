@@ -7,7 +7,7 @@ Il problema si può schematizzare come segue:
 * Dataset contenente immagini e label;
 * Architettura di rete convoluzionale;
 
-> Come allenare la rete a predirre correttamente i label corretti data un immagine di input?
+> Come allenare la rete a prevedere correttamente i label corretti data un immagine di input?
 
 **Soluzione:**
 

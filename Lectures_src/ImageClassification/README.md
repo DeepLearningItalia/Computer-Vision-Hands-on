@@ -17,4 +17,4 @@ Il problema si può schematizzare come segue:
 Il repository mostrato nel video può essere trovato [qui](https://github.com/oscar-defelice/handgesture.github.io).
 Il codice lì presente costruisce una webapp e ne fa il deploy a [questo link](https://oscar-defelice.github.io/handgesture.github.io/).
 
-![image](https://user-images.githubusercontent.com/49638680/114884954-7b445400-9e06-11eb-89d2-fe0c92962781.png)
+<a href="https://oscar-defelice.github.io/handgesture.github.io/" rel="handgesture recognition">![hand](https://user-images.githubusercontent.com/49638680/114884954-7b445400-9e06-11eb-89d2-fe0c92962781.png)</a>

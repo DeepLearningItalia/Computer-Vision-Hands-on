@@ -20,6 +20,9 @@ La descrizione dei modelli che sono stati lo _stato dell'arte_ per la computer v
 
 Algoritmi per implementare l'individuazione di oggetti all'interno delle immagini. Si presentano vari algoritmi. Nel [notebook](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/blob/main/Lectures_src/ObjectDetection/YoloCar_detection.ipynb) si mostra l'implementazione di Yolo v3.
 
+[Qui](https://github.com/oscar-defelice/object-recognition-js) il link al repository che implementa lo stesso algoritmo in JavaScript.
+Il modello viene poi messo in produzione su [questo sito web](https://oscar-defelice.github.io/object-recognition-js/).
+
 ![image](https://user-images.githubusercontent.com/49638680/115031746-cf177180-9ec8-11eb-831a-75dd90efc2fe.png)
 
 ## [One Shot learning](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/blob/main/Lectures_src/SiameseNetwork)

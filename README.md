@@ -31,6 +31,11 @@ Il servizio gratuito _Binder_, permette di accedere ad un ambiente già configur
 ### Autore
 Oscar de Felice
 
+Sono un fisico teorico e appassionato di programmazione e IA. 
+
+Scrivo articoli su Medium (molto poco sistematicamente), puoi leggerli [qui](https://oscar-defelice.medium.com/). 
+Ho anche un [profilo github](https://github.com/oscar-defelice) dove metto i miei progetti personali ed open-source.
+
 📫 [Contattami!](mailto:oscar.defelice@gmail.com)
 
 [![github](https://img.shields.io/github/stars/oscar-defelice?label=GitHub&style=social)](https://github.com/oscar-defelice)

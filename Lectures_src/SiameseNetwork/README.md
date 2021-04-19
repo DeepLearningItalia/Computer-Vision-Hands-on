@@ -2,7 +2,7 @@
 
 In questo breve modulo si introduce l'uso della Siamese Network per il riconoscimento facciale.
 
-![](https://computervision.tecnalia.com/wp-content/uploads/2018/07/SS-600x314.jpg)
+![](https://lilianweng.github.io/lil-log/assets/images/siamese-conv-net.png)
 
 Nel corso dei video si accennano ad altre applicazioni di questa particolare architettura di rete, ad esempio circa il riconoscimento di firme o nella costruzione di un sistema di raccomandazione.
 

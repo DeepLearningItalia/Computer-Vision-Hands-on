@@ -24,14 +24,14 @@ questo installera i pacchetti e le librerie necessarie al corso nelle versioni o
 Il servizio gratuito _Binder_, permette di accedere ad un ambiente già configurato ed eseguire i notebook. Basta cliccare sul badge qui sotto per avviare l'ambiente.
 
 <p align="center">
-<a href = https://mybinder.org/v2/gh/DeepLearningItalia/Computer-Vision-Hands-on/HEAD?urlpath=lab> <img src="https://mybinder.org/badge_logo.svg"> </a>
+<a href = "https://mybinder.org/v2/gh/DeepLearningItalia/Computer-Vision-Hands-on/HEAD?urlpath=lab" target="_blank"> <img src="https://mybinder.org/badge_logo.svg"> </a>
 </p>
 
 
 ## Docente
 ### [Oscar de Felice](https://oscar-defelice.github.io/)
 
-<a href="https://oscar-defelice.github.io/" rel="that's me!">![Oscar](https://oscar-defelice.github.io/images/OscarAboutMe.png)</a>
+<a href="https://oscar-defelice.github.io/" target="_blank" rel="that's me!">![Oscar](https://oscar-defelice.github.io/images/OscarAboutMe.png)</a>
 
 Sono un fisico teorico e appassionato di programmazione e IA.
 

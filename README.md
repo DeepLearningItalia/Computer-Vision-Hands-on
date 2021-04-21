@@ -28,8 +28,8 @@ Il servizio gratuito _Binder_, permette di accedere ad un ambiente già configur
 </p>
 
 
-### Autore
-***Oscar de Felice***
+## Docente
+### [Oscar de Felice](https://oscar-defelice.github.io/)
 
 Sono un fisico teorico e appassionato di programmazione e IA.
 

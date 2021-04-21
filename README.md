@@ -31,7 +31,7 @@ Il servizio gratuito _Binder_, permette di accedere ad un ambiente già configur
 ## Docente
 ### [Oscar de Felice](https://oscar-defelice.github.io/)
 
-![](https://oscar-defelice.github.io/images/OscarAboutMe.png)
+<a href="https://oscar-defelice.github.io/" rel="that's me!">![Oscar](https://oscar-defelice.github.io/images/OscarAboutMe.png)</a>
 
 Sono un fisico teorico e appassionato di programmazione e IA.
 

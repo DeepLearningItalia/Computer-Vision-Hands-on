@@ -25,7 +25,7 @@ Algoritmi per implementare l'individuazione di oggetti all'interno delle immagin
 [Qui](https://github.com/oscar-defelice/object-recognition-js) il link al repository che implementa lo stesso algoritmo in JavaScript.
 Il modello viene poi messo in produzione su [questo sito web](https://oscar-defelice.github.io/object-recognition-js/).
 
-<a href="https://oscar-defelice.github.io/object-recognition-js/" rel="handgesture recognition" target="_blank">![object](https://user-images.githubusercontent.com/49638680/115031746-cf177180-9ec8-11eb-831a-75dd90efc2fe.png)</a>
+<a href="https://oscar-defelice.github.io/object-recognition-js/" target="_blank" rel="handgesture recognition">![object](https://user-images.githubusercontent.com/49638680/115031746-cf177180-9ec8-11eb-831a-75dd90efc2fe.png)</a>
 
 ## [One Shot learning](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/blob/main/Lectures_src/SiameseNetwork)
 

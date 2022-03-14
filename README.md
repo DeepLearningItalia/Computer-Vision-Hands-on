@@ -27,6 +27,11 @@ Il servizio gratuito _Binder_, permette di accedere ad un ambiente già configur
 <a href = "https://mybinder.org/v2/gh/DeepLearningItalia/Computer-Vision-Hands-on/HEAD?urlpath=lab" target="_blank"> <img src="https://mybinder.org/badge_logo.svg"> </a>
 </p>
 
+## Indice delle lezioni
+
+[Qui](Lectures_src/README.md) puoi trovare un indice più dettagliato dei vari moduli.
+
+---
 
 ## Docente
 ### [Oscar de Felice](https://oscar-defelice.github.io/)

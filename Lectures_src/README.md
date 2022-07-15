@@ -1,7 +1,7 @@
 # Piano delle lezioni
 Indico qui schematicamente l'indice delle lezioni e inserisco i link ai rispettivi materiali.
 
-## [Introduzione (ImageClassification)](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/blob/main/Lectures_src/ImageClassification)
+## [Introduzione (ImageClassification)](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/blob/main/Lectures_src/ImageClassification/README.md)
 Una breve introduzione sulle reti convoluzionali e un [codice](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/blob/main/Lectures_src/ImageClassification/ConvolutionalNN-TFKeras.ipynb) su come costruirle in TensorFlow 2.
 
 È stato inserito [un notebook opzionale](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/blob/main/Lectures_src/ImageClassification/CNNStepbyStep.ipynb) che implementa i layer convoluzionali facendo uso del solo numpy.
@@ -27,8 +27,12 @@ Il modello viene poi messo in produzione su [questo sito web](https://oscar-defe
 
 <a href="https://oscar-defelice.github.io/object-recognition-js/" target="_blank" rel="handgesture recognition">![object](https://user-images.githubusercontent.com/49638680/115031746-cf177180-9ec8-11eb-831a-75dd90efc2fe.png)</a>
 
-## [One Shot learning](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/blob/main/Lectures_src/SiameseNetwork)
+## [One Shot learning](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/blob/main/Lectures_src/SiameseNetwork/README.md)
 
 Si descrive un algoritmo capace di imparare una funzione di similarità tra immagini in modo da riconoscere se il contenuto di un'immagine di test è presente all'interno di un database.
 
 ![](https://miro.medium.com/max/1334/1*w4qq-3WwL4N-WBPLxSeBIA.png)
+
+## [Final Project](https://github.com/DeepLearningItalia/Computer-Vision-Hands-on/blob/main/Lectures_src/FinalProject/README.md)
+
+Il progetto finale del corso.
